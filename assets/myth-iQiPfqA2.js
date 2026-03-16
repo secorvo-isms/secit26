@@ -1,0 +1,1 @@
+import{o as t,e as o,i as s}from"./modules/vue-wSB2wOHM.js";import{u as a}from"./slidev/context-IZyN4kMD.js";import{_ as r}from"./index-Ca66BIZI.js";const n={class:"myth-layout"},_={__name:"myth",setup(c){return a(),(e,m)=>(t(),o("div",n,[s(e.$slots,"default",{},void 0,!0)]))}},i=r(_,[["__scopeId","data-v-7a423bf7"]]);export{i as I};
